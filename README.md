@@ -1,6 +1,6 @@
 # IFRS 9 ECL: SAS-to-Python migration with parallel-run validation
 
-A toy version of a real bank migration. A legacy SAS program calculates IFRS 9
+A toy version of a bank data migration. A legacy SAS program calculates IFRS 9
 Expected Credit Loss on a loan book. This repo ports it to Python, then proves the
 two produce the same numbers, loan by loan.
 
